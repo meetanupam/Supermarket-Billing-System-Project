@@ -135,6 +135,8 @@ void shopping:: administrator()
     goto m;
 }
 
+// Function For Buyer
+
 void shopping:: buyer()
 {
     m;
